@@ -1,0 +1,11 @@
+{
+    "algorithm_name": "LSH",
+    "gamma": 0.5,
+    "delta": 1.0,
+    "hash_size": 4,
+    "lsh_seed": 15485863,
+    "phi": 1.0,
+    "entropy_threshold": 0.9,
+    "z_threshold": 4.0,
+    "prefix_length": 1
+}

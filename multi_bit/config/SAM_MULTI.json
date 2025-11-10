@@ -1,0 +1,13 @@
+{
+    "algorithm_name": "SAM_MULTI",
+    "delta": 2.5,
+    "hash_key": 15485863,
+    "prefix_length": 1,
+    "z_threshold": 4.0,
+    "f_scheme": "time",
+    "b": 16,
+    "k": 4,
+    "entropy_type": "shannon", 
+    "tau": 1.0,
+    "H_scale": 1.2
+}

@@ -1,0 +1,10 @@
+{
+    "algorithm_name": "MPAC",
+    "delta": 2.5,
+    "hash_key": 15485863,
+    "prefix_length": 1,
+    "z_threshold": 4.0,
+    "f_scheme": "time",
+    "b": 16,
+    "k": 4
+  }

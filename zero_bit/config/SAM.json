@@ -1,0 +1,11 @@
+{
+    "algorithm_name": "SAM",
+    "delta": 1.0,
+    "hash_key": 15485863,
+    "prefix_length": 1,
+    "z_threshold": 4.0,
+    "f_scheme": "time",
+    "entropy_type": "shannon", 
+    "tau": 1.0,
+    "H_scale": 1.2
+}
